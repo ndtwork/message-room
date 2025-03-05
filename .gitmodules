@@ -1,0 +1,7 @@
+[submodule "Message BE"]
+	path = Coffee-shop-chain-management-backend
+	url = https://github.com/ndtwork/messageBE.git
+
+[submodule "Message FE"]
+	path = Coffee-shop-chain-management-frontend
+	url = https://github.com/ndtwork/FEmessage.git
